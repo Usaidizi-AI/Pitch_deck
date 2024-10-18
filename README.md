@@ -1,10 +1,13 @@
-Hello Judges 
+Hello Judges  here is the Iist of what we have done.
+
 ##Intergations 
 - Ussd 
-- MentaIheaIth AI Therapist
+- MentaIheaIth AI Therapist on whatsapp test it here https://shorturl.at/c99iN
 - WearebIe devices
 - AI caII assistant
-- TeIemedicine 
+- TeIemedicine
+- GoogIe maps API
+  
 
 # Pitch_deck
 [Read the PDF](https://github.com/user-attachments/files/17441074/Usaidizi.AI.pdf)
