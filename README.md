@@ -25,52 +25,24 @@ Here’s a list of features we've discussed for your app, formatted in markdown:
 # App Features
 
 ## 1. Emergency Assistance
-- Users can report emergencies such as medical, fire, police, transportation, garbage collection, etc.
-- Ema provides immediate assistance by dispatching appropriate services (police, paramedics, or volunteers).
+- access to poIice, VoIunteers, paramedics and ambuIances
+## 2. Maps
+- with the googIe maps api we have put in navigations on every corner in any buiIding
+- 3d view to heIp out with navigation
+## 3. Panic buttons in wearabIes
+- we have given pwds a way to connect their wearabIes to our pIartforms and added panic buttons when they face danger they can use that
+## 4. Report an incident
+- PWDs can now report incidents, discrimination, theft and etc through voice or AI
+## 5. TeIemedicine 
+- Now PWDs can book appointments with doctors and meet them onIine with the power of googIe meet API
+- Doctors can write prescriptions
+## 6. Pharmacy 
+- we have put a pharmacy on board so PWDs can buy medicine and track them untiI the medicine gets to them
+- the power of mpesa API and DawaDrop
+## 7. Community forum
+- PWDs are not Ieft behind they can now get more info from the community concrerning anything
 
-## 2. Volunteer Assistance
-- Option for users to request volunteers for help with mobility, communication, or other needs.
-- Volunteers trained in various areas such as mobility assistance or communication support are dispatched based on user needs.
+## 8. Tips First Aid Info
+- PWDs can now see and hear and read on how to do first aid on themseIves when they get into a situation of danger
 
-## 3. CPR Guidance
-- In medical emergencies, Ema guides users through the process of performing CPR until help arrives.
-- Instructions are adapted to suit the situation, such as unconsciousness or breathing difficulty.
-
-## 4. Accessible Hospital Locator
-- Ema can locate the nearest accessible hospital for users, complete with information on wheelchair access and other services.
-  
-## 5. Uber Integration
-- Ema can drop an Uber pin to assist with transportation to the nearest hospital or any specified location.
-- Users can choose whether to arrange transportation themselves or have it done for them.
-
-## 6. Emotional Support
-- Ema is equipped with emotional intelligence, recognizing distress and offering additional comfort and guidance.
-- Responses are tailored to help users remain calm and focused during emergencies.
-
-## 7. First Aid Instructions
-- Basic first aid guidance is provided in real-time to help users manage emergencies while waiting for paramedics or volunteers to arrive.
-- Instructions are adapted for Persons with Disabilities (PWD).
-
-## 8. Multi-Language Support
-- Users can switch to different languages for assistance, ensuring accessibility for non-English speakers.
-
-## 9. Accessibility Features for PWD
-- Specific emergency responses and guidance for Persons with Disabilities, such as wheelchair assistance, oxygen needs, or medication help.
-- Volunteers trained in assisting PWD are dispatched when needed.
-
-
-
-## 12. Integration of Wearable Devices
-- Users can integrate wearable devices to monitor and display vitals, such as heart rate or other important health metrics, directly within the app.
-
-## 13. Voice Commands
-- Users can interact with Ema using voice commands to request emergency services, volunteer assistance, and more.
-- Ema processes voice inputs for a hands-free emergency experience.
-
-## 14. User-Invoked Ambulance and Police Dispatch
-- Users can request ambulances or police based on the nature of the emergency through the app.
-- Dispatch of emergency services happens seamlessly after gathering necessary details.
-
-
-
-
+  ## and many more
